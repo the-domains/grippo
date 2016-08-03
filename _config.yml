@@ -12,9 +12,13 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.17997708986513317
 author:
-  name: Jorge Grippo
+  name: El poder de publicar
   email: jorge.grippo@gmail.com
-  url: 'http://www.grippo.com'
+  url: 'https://publicar.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/329dffae-b661-4deb-b039-322d701faac1.png
 name: Lista de Negocios
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d12cc4-786d-45a1-86ca-2d53b06b3362.png
 title: Una idea simple
 description: El poder de publicar es poder publicar
