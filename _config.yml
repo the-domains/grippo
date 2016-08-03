@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.17997708986513317
-name: Grippo
-title: Lista de Negocios
+author:
+  name: Jorge Grippo
+  email: jorge.grippo@gmail.com
+  url: 'http://www.grippo.com'
+name: Lista de Negocios
+title: Una idea simple
 description: Una idea muy simple y tan genial
