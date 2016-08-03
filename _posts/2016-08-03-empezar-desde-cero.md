@@ -1,20 +1,18 @@
 ---
+datePublished: '2016-08-03T16:15:36.666Z'
+sourcePath: _posts/2016-08-03-empezar-desde-cero.md
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-08-03T16:15:35.789Z'
+title: Empezar desde cero
+publisher: {}
 description: >-
   Estar en internet se volvió algo más sencillo. Tan sencillo. Sin embargo, la
   oferta de cosas para hacer, sitios dónde estar, actividades para realizar, han
   vuelto la experiencia en un caos. Nos dejamos llevar por los impulsos.
-dateModified: '2016-08-03T16:15:10.020Z'
-datePublished: '2016-08-03T16:15:23.153Z'
-title: Empezar desde cero
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-03-empezar-desde-cero.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # Empezar desde cero
