@@ -1,4 +1,3 @@
-layout_spectrum: 0.17997708986513317
 typography_spectrum: 0.9618980197701603
 color:
   brandStrength: 0.8098178098443896
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.17997708986513317
 name: Grippo
+title: Lista de Negocios
 description: Una idea muy simple y tan genial
