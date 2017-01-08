@@ -1,24 +1,26 @@
-typography_spectrum: 0.9618980197701603
+typography_spectrum: 0.4483416506191623
 color:
-  brandStrength: 0.8098178098443896
-  lightness: 0.21921075670979917
-  saturation: 0.5387826161459088
-  rhythmicContrast: 0.12998049124144018
+  brandStrength: 0.3894221932513842
+  lightness: 0.9890954000277832
+  saturation: 0.06362181970803528
+  rhythmicContrast: 0.35827687777265316
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.17997708986513317
+    - '#FFFFFF'
+    - '#000000'
+    - '#34B3E2'
+    - '#F7B452'
+    - '#2A3985'
+github: true
+layout_spectrum: 0.9411259092658868
 author:
   name: El poder de publicar
   email: jorge.grippo@gmail.com
-  url: 'https://publicar.org'
+  url: 'https://listadenegocios.com.ar'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/329dffae-b661-4deb-b039-322d701faac1.png
 name: Lista de Negocios
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d12cc4-786d-45a1-86ca-2d53b06b3362.png
 title: Una idea simple
+content: []
 description: El poder de publicar es poder publicar
